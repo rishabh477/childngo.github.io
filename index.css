@@ -96,18 +96,18 @@
 }
 .image{
 	height: 400px;
-	background-image: url("ngo1.jpg");
+	background-image: url("https://res.cloudinary.com/cloudraj/image/upload/v1541083440/ngo1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .image2{
-	background-image: url("ngo3.png");
+	background-image: url("https://res.cloudinary.com/cloudraj/image/upload/v1541083441/ngo3.png");
 }
 .image3{
-	background-image: url("ngo2.jpg");
+	background-image: url("https://res.cloudinary.com/cloudraj/image/upload/v1541083441/ngo2.jpg");
 }
 .image4{
-	background-image: url("ngo1.jpg");
+	background-image: url("https://res.cloudinary.com/cloudraj/image/upload/v1541083440/ngo1.jpg");
 }
 .section{
 	background-color: #1ca0d7;
